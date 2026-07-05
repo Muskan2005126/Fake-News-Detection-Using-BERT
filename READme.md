@@ -1,6 +1,6 @@
-# 📰 Fake News Detection using BERT
+#  Fake News Detection using BERT
 
-## 📌 Project Overview
+##  Project Overview
 
 This project uses Google's BERT (Bidirectional Encoder Representations from Transformers) model to classify news articles as **Real** or **Fake** using Deep Learning and Natural Language Processing (NLP).
 
@@ -8,7 +8,7 @@ The model is fine-tuned on a labeled fake news dataset using Hugging Face Transf
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Deep Learning-based Fake News Detection
 - BERT Transformer Model
@@ -20,7 +20,7 @@ The model is fine-tuned on a labeled fake news dataset using Hugging Face Transf
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python
 - PyTorch
@@ -33,7 +33,7 @@ The model is fine-tuned on a labeled fake news dataset using Hugging Face Transf
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The dataset contains labeled news articles.
 
@@ -44,7 +44,7 @@ Labels:
 
 ---
 
-## 🧠 Model Architecture
+##  Model Architecture
 
 Dataset
 
@@ -70,7 +70,7 @@ Prediction
 
 ---
 
-## 📈 Results
+##  Results
 
 - Model: BERT Base Uncased
 - Training Epochs: 2
@@ -79,7 +79,7 @@ Prediction
 
 ---
 
-## 💻 Installation
+##  Installation
 
 ```bash
 pip install -r requirements.txt
@@ -87,7 +87,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Run
+##  Run
 
 Open
 
@@ -99,7 +99,7 @@ Run all cells.
 
 ---
 
-## 📌 Example Prediction
+##  Example Prediction
 
 Input:
 
@@ -116,10 +116,11 @@ Real News
 
 ---
 
-![alt text](accuracy.png)
-![alt text](prediction.png)
+<img width="752" height="297" alt="prediction" src="https://github.com/user-attachments/assets/6c3a4747-5be9-49db-92c4-d3e0871925e9" />
 
-## 👩‍💻 Author
+<img width="565" height="267" alt="accuracy" src="https://github.com/user-attachments/assets/94aecce3-21b9-4b58-b288-b93cf76d36fa" />
+
+##  Author
 
 Muskan Jaiswal
 
